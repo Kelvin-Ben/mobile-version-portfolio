@@ -368,9 +368,36 @@ a:last-child {
 }
 
 .projects {
-  width: 295px;
-  height: 72px;
+  width: 124px;
+  height: 48px;
+  margin-left: -175px;
   flex: none;
+}
+
+.see-projects {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 124px;
+  height: 48px;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 17px;
+  letter-spacing: 0.03em;
+  text-align: center;
+  color: #396df2;
+}
+
+.projects:hover {
+  background-color: #6070ff;
+  transition-duration: 0.05s;
+  cursor: pointer;
+}
+
+.see-projects:hover {
+  color: #fff;
+  transition-duration: 0.05s;
 }
 
 button {
@@ -382,18 +409,6 @@ button {
   box-sizing: border-box;
   border: 1px solid #6070ff;
   border-radius: 8px;
-}
-
-.see-projects {
-  width: 124px;
-  height: 48px;
-  font-family: 'Poppins', sans-serif;
-  font-style: normal;
-  font-weight: 500;
-  font-size: 17px;
-  letter-spacing: 0.03em;
-  text-align: center;
-  color: #396df2;
 }
 
 .about {
@@ -539,4 +554,15 @@ button {
   font-size: 20px;
   line-height: 24px;
   color: #000;
+}
+
+.get:hover {
+  background-color: #396df2;
+  transition-duration: 0.05s;
+  cursor: pointer;
+}
+
+.resume:hover {
+  color: #fff;
+  transition-duration: 0.05s;
 }
