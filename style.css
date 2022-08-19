@@ -14,12 +14,15 @@
 }
 
 .introduction {
-  width: 375px;
+  width: auto;
   height: 720px;
   background: #fff;
   margin-top: 10px;
   border-bottom-left-radius: 100px;
   margin-bottom: 80px;
+  background-image: url(./images/background.png);
+  background-repeat: no-repeat;
+  background-position-y: 100px;
 }
 
 .main-header {
@@ -52,84 +55,6 @@
   margin-top: -113px;
 }
 
-#elipse11 {
-  top: 150px;
-  left: 0;
-  position: absolute;
-}
-
-#elipse15 {
-  top: 155px;
-  left: 132px;
-  position: absolute;
-}
-
-#rectangle7 {
-  position: absolute;
-  top: 142px;
-  left: 130px;
-}
-
-#elipse3 {
-  top: 152px;
-  left: 323px;
-  position: absolute;
-}
-
-#rectangle4 {
-  top: 118px;
-  left: 294px;
-  position: absolute;
-}
-
-#elipse8 {
-  top: 110px;
-  left: 214px;
-  position: absolute;
-}
-
-#rectangle44 {
-  position: absolute;
-  top: 142px;
-  left: 1211.59px;
-}
-
-.ellipse3 {
-  margin-top: 50px;
-  margin-left: -50px;
-  position: absolute;
-}
-
-#elipse12 {
-  top: 568px;
-  left: 300px;
-  position: absolute;
-}
-
-#elipse13 {
-  top: 580px;
-  left: 290px;
-  position: absolute;
-}
-
-.elipse8 {
-  top: 680px;
-  left: 40px;
-  position: absolute;
-}
-
-.elipse4 {
-  top: 693px;
-  left: 237px;
-  position: absolute;
-}
-
-.rectangle5 {
-  top: 690px;
-  left: 185px;
-  position: absolute;
-}
-
 .name {
   display: flex;
   align-items: center;
@@ -138,7 +63,7 @@
   font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 700;
-  font-size: 32px;
+  font-size: 20px;
   line-height: 52px;
   color: #172b4d;
   margin-top: 250px;
