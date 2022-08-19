@@ -2,10 +2,6 @@
   margin: 0;
   padding: 0;
 }
-
-/* body {
-  text-align: center;
-} */
 .container {
   background-color: #f7f7f9;
   width: 100%;
@@ -19,8 +15,6 @@
 .introduction {
   width: 375px;
   height: 720px;
-
-  /* margin: 0 auto; */
   background: #fff;
   margin-top: 10px;
   border-bottom-left-radius: 100px;
@@ -42,8 +36,6 @@
 
 .three {
   display: inline-block;
-
-  /* margin-left: 10px; */
   margin: 0 10px;
 }
 
@@ -145,7 +137,7 @@
   font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 700;
-  font-size: 40px;
+  font-size: 32px;
   line-height: 52px;
   color: #172b4d;
   margin-top: 250px;
@@ -182,11 +174,12 @@
   display: flex;
 }
 
-a {
-  flex-direction: row;
+ul{
+  display: flex;
 }
 
-a:link {
+li {
+  list-style: none;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -272,7 +265,6 @@ a:last-child {
 }
 
 .backend {
-  /* width: 100px; */
   height: 16px;
   font-family: 'Poppins', sans-serif;
   font-style: normal;
@@ -310,13 +302,12 @@ a:last-child {
 .tags {
   width: 203px;
   height: 24px;
-
-  /* margin-left: -94px; */
   display: flex;
   flex-direction: row;
   align-items: center;
+  justify-content: center;
   flex: none;
-  margin-left: -93px;
+  margin-left: -79px;
   gap: 20px;
   margin-bottom: 30px;
 }
@@ -327,8 +318,6 @@ a:last-child {
   padding: 4px 12px;
   background: #ebebff;
   border-radius: 8px;
-
-  /* margin-top: 20px; */
 }
 
 .html {
@@ -398,6 +387,7 @@ a:last-child {
 .see-projects:hover {
   color: #fff;
   transition-duration: 0.05s;
+  font-weight: bold;
 }
 
 button {
@@ -415,11 +405,7 @@ button {
   width: 375px;
   height: 1125px;
   background: #fff;
-  border-top-right-radius: 100px;
-
-  /* display: flex;
-  flex-direction: column;
-  align-items: center; */
+  border-top-right-radius: 100px; 
 }
 
 .myself {
@@ -497,19 +483,20 @@ button {
   color: #000;
 }
 
-.language-list {
-  gap: 30px;
-}
-
-.list {
-  list-style-type: none;
-  width: 305px;
-  height: 67px;
+#list {
   display: flex;
   align-items: center;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.list {
+  display: flex;
+  justify-content: flex-start;
   gap: 20px;
+  width: 305px;
+  height: 67px;
   margin-top: 20px;
-  margin-left: 24px;
+  margin-left: 0;
   background: #f7f7f9;
   border-radius: 8px;
 }
@@ -534,7 +521,7 @@ button {
 .frameworks {
   display: flex;
   align-items: center;
-  margin-left: 24px;
+  margin-left: 38px;
   justify-content: space-between;
   margin-right: 45px;
 }
@@ -565,4 +552,6 @@ button {
 .resume:hover {
   color: #fff;
   transition-duration: 0.05s;
+  font-weight: bold;
+  width: auto;
 }
