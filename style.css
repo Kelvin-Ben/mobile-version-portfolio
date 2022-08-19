@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
 }
+
 .container {
   background-color: #f7f7f9;
   width: 100%;
@@ -174,7 +175,7 @@
   display: flex;
 }
 
-ul{
+ul {
   display: flex;
 }
 
@@ -405,7 +406,7 @@ button {
   width: 375px;
   height: 1125px;
   background: #fff;
-  border-top-right-radius: 100px; 
+  border-top-right-radius: 100px;
 }
 
 .myself {
@@ -489,6 +490,7 @@ button {
   flex-direction: column;
   justify-content: space-between;
 }
+
 .list {
   display: flex;
   justify-content: flex-start;
