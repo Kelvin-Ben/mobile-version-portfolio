@@ -1,10 +1,11 @@
 # Mobile-Version
 - This is the second part of building my portfolio website
-- I will create sections within the website where i will include my portfolio projects.
+- I will create sections within the website where I will include my portfolio projects.
 - This sections of the mobile website include:
     1. The toolbar section
     2. Works section
     3. The About myself
+    4. The Contact form
 
 ## Built With
 
