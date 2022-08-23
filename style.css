@@ -6,7 +6,7 @@
 .container {
   background-color: #f7f7f9;
   width: 100%;
-  height: 4730px;
+  height: 6500px;
   margin: 0 auto;
   display: flex;
   flex-direction: column;
@@ -14,8 +14,8 @@
 }
 
 .introduction {
-  width: auto;
-  height: 720px;
+  width: 23.5rem;
+  height: 735px;
   background: #fff;
   margin-top: 10px;
   border-bottom-left-radius: 100px;
@@ -329,7 +329,7 @@ button {
 
 .about {
   width: 375px;
-  height: 1125px;
+  height: 1320px;
   background: #fff;
   border-top-right-radius: 100px;
 }
@@ -481,4 +481,118 @@ button {
   transition-duration: 0.05s;
   font-weight: bold;
   width: auto;
+}
+
+/* contact form */
+.contact-me {
+  width: 375px;
+  height: 790px;
+  background: #6070ff;
+  border-top-left-radius: 100px;
+  margin-top: -160px;
+  background-image: url(./images/contact-shapes.png);
+  background-repeat: no-repeat;
+  background-position-y: 9px;
+  background-position-x: 153px;
+}
+
+#contact-me {
+  width: auto;
+  height: 56px;
+  text-align: center;
+  margin-top: 78px;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 52px;
+  color: #fff;
+}
+
+#text {
+  width: 327px;
+  height: 110px;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 28px;
+  color: #ebebff;
+  margin: 24px auto;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 53px;
+}
+
+.fields {
+  display: flex;
+  flex-direction: column;
+  margin-left: -7px;
+  margin-right: 18px;
+}
+
+.username {
+  margin: 10px auto;
+  width: 327px;
+  height: 48px;
+  background: #fff;
+  border: 1px solid #cfd8dc;
+  border-radius: 8px;
+  padding-left: 10px;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 20px;
+  color: #172b4d;
+}
+
+.input {
+  margin-top: 3px;
+}
+
+#id {
+  padding: 5px;
+}
+
+#sms {
+  height: 170px;
+}
+
+#get {
+  width: 148px;
+  height: 48px;
+  margin: 10px auto;
+  margin-left: 18px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 24px;
+  color: #b3bac5;
+}
+
+#get:hover {
+  color: #fff;
+  transition-duration: 0.05s;
+  font-weight: bold;
+}
+
+.bar {
+  width: auto;
+  height: 35px;
+  display: flex;
+  margin-top: 30px;
+}
+
+#bar {
+  width: 134px;
+  height: 5px;
+  margin: 0 auto;
+  background: #0d151e;
+  border-radius: 10px;
 }

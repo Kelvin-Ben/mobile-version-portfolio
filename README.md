@@ -1,10 +1,9 @@
-# Mobile-Version
-- This is the second part of building my portfolio website
-- I will create sections within the website where i will include my portfolio projects.
-- This sections of the mobile website include:
-    1. The toolbar section
-    2. Works section
-    3. The About myself
+# Mobile-Version-Portfolio
+ADD CONTACT ME FORM
+- This section of the project involved adding contact form to the portfolio project.
+- It was a collaboration project which my partner and I invited each other for a collaboration to build a contact form that can be used to give feedback.
+- In the form we used https://formspree.io/ as our collection tool for feedbacks.
+- Also, when building the form we had to set restrictions such as without filling all required fields a user cannot be able to submit the form.
 
 ## Built With
 
