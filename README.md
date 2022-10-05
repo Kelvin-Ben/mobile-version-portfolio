@@ -11,16 +11,16 @@ ADD CONTACT ME FORM
 
 
 
-👤 **Kelvin Ben**
+👤 **Kelvin Benjamin**
 
-- GitHub: [@Kevo-hacker](https://github.com/Kevo-hacker)
+- GitHub: [@Kelvin-Ben](https://github.com/Kevo-hacker)
 - Twitter: [@kevoyout144](https://twitter.com/kevoyout144)
 - LinkedIn: [Kelvin Ben](https://www.linkedin.com/in/kelvin-ben-323043173/)
 
 
 
 
-👤 Link to [Live Demo](https://kelvin-ben.github.io/mobile-version-portfolio/)
+## Link to [Live Demo](https://kelvin-ben.github.io/mobile-version-portfolio/)
 
 
 
