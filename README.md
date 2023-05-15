@@ -1,3 +1,6 @@
+![IMG_20210430_165321 (3)](https://github.com/Kelvin-Ben/mobile-version-portfolio/assets/85459676/99e63710-6743-40fa-86a8-4543200c9c35)
+
+
 #### PORTFOLIO: ADD CONTACT ME FORM
 - This section of the project involved adding contact form to the portfolio project.
 - It was a collaboration project which my partner and I invited each other for a collaboration to build a contact form that can be used to give feedback.
@@ -22,9 +25,10 @@
 - GitHub: [@Miliyonayalew](https://github.com/Miliyonayalew)
 - LinkedIn: [Miliyon Ayalew ](https://www.linkedin.com/in/miliyon-ayalew/)
 
-## Link to [Live Demo](https://kelvin-ben.github.io/mobile-version-portfolio/)
+## To view completed project 
+click [here](https://kelvin-ben.github.io/mobile-version-portfolio/)
 
-### Setup
+## Setup
     -using git command line
       if you are using the git command line, please use this command in your terminal
         git@github.com:Kelvin-Ben/mobile-version-portfolio.git
@@ -32,7 +36,7 @@
       if you are using the desktop version of github, please  click on the green "code" button and click on "Open with GitHub Desktop" 
 
 
-### Install
+## Install
     Install the linters in your local environment to mantain your code clean 
 
 # 🤝 Contributing
