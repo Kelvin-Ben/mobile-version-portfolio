@@ -1,4 +1,4 @@
-#### ADD CONTACT ME FORM
+#### PORTFOLIO: ADD CONTACT ME FORM
 - This section of the project involved adding contact form to the portfolio project.
 - It was a collaboration project which my partner and I invited each other for a collaboration to build a contact form that can be used to give feedback.
 - In the form we used https://formspree.io/ as our collection tool for feedbacks.
@@ -46,7 +46,7 @@ Feel free to check the [issues page](../../issues/).
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
-- I want to Appreciate microverse for their greate curriculumn and availabe resources for learning
+- I'd like to thank Microverse for their excellent curriculum and learning resources.
 
 ## 📝 License
 
